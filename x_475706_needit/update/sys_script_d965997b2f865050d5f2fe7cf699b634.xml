@@ -11,7 +11,7 @@
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>incident</collection>
+        <collection>x_475706_needit_needit</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
@@ -29,16 +29,20 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	var rightnow = new GlideDateTime();
+	//var rightnow = new GlideDateTime();
 	// Create a GlideDateTime object for the When needed date
-	var whenNeeded = new GlideDateTime(current.u_when_needed);
+	//var whenNeeded = new GlideDateTime(current.u_when_needed);
 	
 	// If the When needed date is before rightnow, do not write the record to the database
 	// Output an error message to the screen
-	if(whenNeeded.before(rightnow)){
-		gs.addErrorMessage("When needed date cannot be in the past.  Your request has not been saved to the database.");
-		current.setAbortAction(true);
-	}
+	//if(whenNeeded.before(rightnow)){
+		//gs.addErrorMessage("When needed date cannot be in the past.  Your request has not been saved to the database.");
+		//current.setAbortAction(true);
+	//}
+	gs.info("this is info message.");
+	gs.warn("this is warn message.");
+	gs.error("this is error message.");
+	gs.debug("this is debug message.");
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -46,7 +50,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d965997b2f865050d5f2fe7cf699b634</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Needit When needed field date</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
@@ -54,7 +58,7 @@
         <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
         <sys_update_name>sys_script_d965997b2f865050d5f2fe7cf699b634</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-23 15:13:38</sys_updated_on>
+        <sys_updated_on>2020-07-28 08:48:04</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
