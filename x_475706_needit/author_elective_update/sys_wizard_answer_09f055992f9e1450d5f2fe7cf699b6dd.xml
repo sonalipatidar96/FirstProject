@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Needit</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needit</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">313798872f320010d5f2fe7cf699b67c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:36:59</sys_created_on>
+        <sys_id>09f055992f9e1450d5f2fe7cf699b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>sys_wizard_answer_09f055992f9e1450d5f2fe7cf699b6dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:36:59</sys_updated_on>
+        <table/>
+        <target_url>x_475706_needit_this_is_field_value_automatically_created.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</application>
+        <file_path/>
+        <instance_id>6cd11f94dbe49704439ef70fbf961971</instance_id>
+        <instance_name>dev50570</instance_name>
+        <name>sys_wizard_answer_09f055992f9e1450d5f2fe7cf699b6dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Needit</answer><button_label/><dependent_value/><element/><name>Needit</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">313798872f320010d5f2fe7cf699b67c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-28 06:36:59</sys_created_on><sys_id>09f055992f9e1450d5f2fe7cf699b6dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit</sys_name><sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package><sys_policy/><sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope><sys_update_name>sys_wizard_answer_09f055992f9e1450d5f2fe7cf699b6dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-28 06:36:59</sys_updated_on><table/><target_url>x_475706_needit_this_is_field_value_automatically_created.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1756178989</payload_hash>
+        <record_name>Needit</record_name>
+        <reverted_from/>
+        <source>d783a0032f320010d5f2fe7cf699b66a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-02-10 14:08:13</sys_created_on>
+        <sys_id>f73215d92f9e1450d5f2fe7cf699b60f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1702f6dd8c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>b73215d97a9e1450505cc8dad45ba70f</update_guid>
+        <update_guid_history>b73215d97a9e1450505cc8dad45ba70f:-1756178989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:42:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>10c4c6e6c157412fbf90031d51e7f479</sys_id>
+        <sys_metadata>09f055992f9e1450d5f2fe7cf699b6dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_parent display_value="Task">313798872f320010d5f2fe7cf699b67c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_scope_delete display_value="">0adba82ba3834618ae7b787951fa9c90</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_09f055992f9e1450d5f2fe7cf699b6dd</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_09f055992f9e1450d5f2fe7cf699b6dd">f73215d92f9e1450d5f2fe7cf699b60f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:42:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
