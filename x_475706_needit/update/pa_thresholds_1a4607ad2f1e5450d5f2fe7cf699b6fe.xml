@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount/>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>more_than</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>NeedIt: Active Weekly.</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Active Weekly.">331632252f1e5450d5f2fe7cf699b61b</indicator>
+        <last_check/>
+        <owner display_value="Sonali Patidar">6816f79cc0a8016401c5a33be04be441</owner>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 09:48:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a4607ad2f1e5450d5f2fe7cf699b6fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>pa_thresholds_1a4607ad2f1e5450d5f2fe7cf699b6fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 09:48:05</sys_updated_on>
+        <value>200</value>
+    </pa_thresholds>
+</record_update>

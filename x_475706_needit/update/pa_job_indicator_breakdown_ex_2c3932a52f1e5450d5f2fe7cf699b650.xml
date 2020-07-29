@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex">
+    <pa_job_indicator_breakdown_ex action="INSERT_OR_UPDATE">
+        <breakdown display_value="NeedIt Request type">a7583a252f1e5450d5f2fe7cf699b6fc</breakdown>
+        <job_indicator display_value="temporary job for collecting NeedIt Requested for - NeedIt: Active Weekly.">9439ba652f1e5450d5f2fe7cf699b6bf</job_indicator>
+        <sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 08:50:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c3932a52f1e5450d5f2fe7cf699b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.temporary job for collecting NeedIt Requested for - NeedIt: Active Weekly.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>pa_job_indicator_breakdown_ex_2c3932a52f1e5450d5f2fe7cf699b650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 08:50:53</sys_updated_on>
+    </pa_job_indicator_breakdown_ex>
+</record_update>

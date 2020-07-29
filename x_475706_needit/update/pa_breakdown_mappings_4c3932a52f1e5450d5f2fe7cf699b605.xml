@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="NeedIt Requested for">8039fe252f1e5450d5f2fe7cf699b666</breakdown>
+        <facts_table>x_475706_needit_needit</facts_table>
+        <field>u_requested_for</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 08:50:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c3932a52f1e5450d5f2fe7cf699b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8039fe252f1e5450d5f2fe7cf699b666</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_4c3932a52f1e5450d5f2fe7cf699b605</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 08:50:52</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>
