@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA  NeedIt Application - New Tab">085c11e92f1a5450d5f2fe7cf699b68e</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 07-28-2020 19:06:50">25bcd9692f1a5450d5f2fe7cf699b685</portal_widget>
+        <portal_widget display_value="Created 2020-07-28 19:06:50">25bcd9692f1a5450d5f2fe7cf699b685</portal_widget>
         <posx>0</posx>
         <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
