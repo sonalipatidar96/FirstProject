@@ -3,22 +3,22 @@
         <dashboard display_value="NeedIt Application">e2c707ed2f1e5450d5f2fe7cf699b61e</dashboard>
         <home>false</home>
         <homepage/>
-        <order>1</order>
+        <order>2</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-29 09:56:40</sys_created_on>
+        <sys_created_on>2020-07-30 03:47:38</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>08480bed2f1e5450d5f2fe7cf699b6cb</sys_id>
+        <sys_id>046dfefd2f569450d5f2fe7cf699b678</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>e2c707ed2f1e5450d5f2fe7cf699b61e</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
-        <sys_update_name>pa_m2m_dashboard_tabs_08480bed2f1e5450d5f2fe7cf699b6cb</sys_update_name>
+        <sys_update_name>pa_m2m_dashboard_tabs_046dfefd2f569450d5f2fe7cf699b678</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 09:56:40</sys_updated_on>
-        <tab display_value="Due Monthly">cc480bed2f1e5450d5f2fe7cf699b6c8</tab>
+        <sys_updated_on>2020-07-30 03:47:38</sys_updated_on>
+        <tab display_value="Active Weekly">cc6dbefd2f569450d5f2fe7cf699b695</tab>
     </pa_m2m_dashboard_tabs>
 </record_update>
