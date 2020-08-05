@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">61c508562f52d450d5f2fe7cf699b603</sp_column>
+        <sp_widget display_value="Popular Questions">e0c3a791d721120023c84f80de610304</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-31 03:51:29</sys_created_on>
+        <sys_id>cad780de2f52d450d5f2fe7cf699b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>sp_instance_cad780de2f52d450d5f2fe7cf699b675</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-31 03:51:29</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=cad780de2f52d450d5f2fe7cf699b675"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</application>
+        <file_path/>
+        <instance_id>6cd11f94dbe49704439ef70fbf961971</instance_id>
+        <instance_name>dev50570</instance_name>
+        <name>sp_instance_cad780de2f52d450d5f2fe7cf699b675</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="3">61c508562f52d450d5f2fe7cf699b603</sp_column><sp_widget display_value="Popular Questions">e0c3a791d721120023c84f80de610304</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-31 03:51:29</sys_created_on><sys_id>cad780de2f52d450d5f2fe7cf699b675</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package><sys_policy/><sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope><sys_update_name>sp_instance_cad780de2f52d450d5f2fe7cf699b675</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-31 03:51:29</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=cad780de2f52d450d5f2fe7cf699b675"/></record_update>]]></payload>
+        <payload_hash>1652585555</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>dee0f7f32f0e5050d5f2fe7cf699b6b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-31 03:51:29</sys_created_on>
+        <sys_id>86d744522f92d450d5f2fe7cf699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173a2ff07160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-31 03:51:29</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>ced744524d92d4509b7481bba551a801</update_guid>
+        <update_guid_history>ced744524d92d4509b7481bba551a801:1652585555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f381e11a2f56d450d5f2fe7cf699b638</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-31 10:23:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0ad24b21d4cd47b8a773a6ef0076b890</sys_id>
+        <sys_metadata>cad780de2f52d450d5f2fe7cf699b675</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_scope_delete display_value="">0adba82ba3834618ae7b787951fa9c90</sys_scope_delete>
+        <sys_update_name>sp_instance_cad780de2f52d450d5f2fe7cf699b675</sys_update_name>
+        <sys_update_version display_value="sp_instance_cad780de2f52d450d5f2fe7cf699b675">86d744522f92d450d5f2fe7cf699b602</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-31 10:23:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
