@@ -5,6 +5,25 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>true</inactive>
+            <label>Facilities 1</label>
+            <language>en</language>
+            <name>x_475706_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 07:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9cf99152fde1450d5f2fe7cf699b639</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 16:00:50</sys_updated_on>
+            <value>facilities 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Human Resources</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
@@ -23,7 +42,7 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human Resources 1</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
@@ -33,16 +52,35 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>55cf99152fde1450d5f2fe7cf699b636</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_475706_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 15:58:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>572e58cc2f26d850d5f2fe7cf699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
+            <value>human resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Facilities</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
@@ -52,16 +90,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ecce11152fde1450d5f2fe7cf699b6b2</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-06 06:38:27</sys_updated_on>
             <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
@@ -71,17 +109,36 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>11cf99152fde1450d5f2fe7cf699b638</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
             <value>hr 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Facilities 1</label>
+            <inactive>true</inactive>
+            <label>Legal 1</label>
+            <language>en</language>
+            <name>x_475706_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 07:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51cf99152fde1450d5f2fe7cf699b63d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 16:00:50</sys_updated_on>
+            <value>legal 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Facilities 2</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
             <sequence>2</sequence>
@@ -89,17 +146,17 @@
             <sys_created_on>2020-07-28 07:41:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d9cf99152fde1450d5f2fe7cf699b639</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>95cf99152fde1450d5f2fe7cf699b63b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
-            <value>facilities 1</value>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
+            <value>facilities 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Legal</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
@@ -109,17 +166,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a8ce11152fde1450d5f2fe7cf699b6b4</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-06 06:38:27</sys_updated_on>
             <value>legal</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Facilities 2</label>
+            <inactive>true</inactive>
+            <label>Legal 2</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
             <sequence>3</sequence>
@@ -127,48 +184,10 @@
             <sys_created_on>2020-07-28 07:41:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>95cf99152fde1450d5f2fe7cf699b63b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
-            <value>facilities 2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Legal 1</label>
-            <language>en</language>
-            <name>x_475706_needit_needit</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 07:41:43</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>51cf99152fde1450d5f2fe7cf699b63d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
-            <value>legal 1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Legal 2</label>
-            <language>en</language>
-            <name>x_475706_needit_needit</name>
-            <sequence>5</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 07:41:43</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>1dcf99152fde1450d5f2fe7cf699b63e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
             <value>legal 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -179,15 +198,15 @@
             <label>Your Department Choice</label>
             <language>en</language>
             <name>x_475706_needit_needit</name>
-            <sequence>6</sequence>
+            <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-07-28 07:37:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>64ce11152fde1450d5f2fe7cf699b6b6</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 07:41:43</sys_updated_on>
+            <sys_updated_on>2020-08-05 15:58:25</sys_updated_on>
             <value>your department choice</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

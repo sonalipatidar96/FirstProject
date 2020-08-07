@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Log: Test of When needed with a date in the future should succeed. Record inserted by test: {{Step 2: Record Insert.Record}}&#13;
+&#13;
+</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 08:20:24</sys_created_on>
+        <sys_id>8a553ab72f12d850d5f2fe7cf699b66b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Needit" source="x_475706_needit">7636883b2fc25050d5f2fe7cf699b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">7636883b2fc25050d5f2fe7cf699b672</sys_scope>
+        <sys_update_name>sys_atf_step_8a553ab72f12d850d5f2fe7cf699b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 08:35:15</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Future">68157a772f12d850d5f2fe7cf699b694</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8a553ab72f12d850d5f2fe7cf699b66b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8a553ab72f12d850d5f2fe7cf699b66b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 08:20:24</sys_created_on>
+        <sys_id>42553ab72f12d850d5f2fe7cf699b66d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 08:35:15</sys_updated_on>
+        <value>Test of When needed with a date in the future should succeed. Record inserted by test: {{step['46553ab72f12d850d5f2fe7cf699b661'].record_id}}&#13;
+&#13;
+</value>
+        <variable display_value="">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8a553ab72f12d850d5f2fe7cf699b66b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>log</field>
+        <id>8a553ab72f12d850d5f2fe7cf699b66b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 08:35:15</sys_created_on>
+        <sys_id>2fb8bab72f12d850d5f2fe7cf699b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 08:35:15</sys_updated_on>
+        <table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table>
+        <value>Test of When needed with a date in the future should succeed. Record inserted by test: {{step['46553ab72f12d850d5f2fe7cf699b661'].record_id}}&#13;
+&#13;
+</value>
+    </sys_element_mapping>
+</record_update>
